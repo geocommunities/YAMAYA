@@ -1,6 +1,6 @@
-# CoreOS25
+# YAMAYA
 
-A minimalist, modern operating system for the USB-C era.  
+A minimalist, modern operating system for the 21st century.  
 Inspired by the simplicity of DOS, but built from the ground up for 2025+ hardware. No legacy bloat, no SATA, just clean, modular design.
 
 ## Goals
