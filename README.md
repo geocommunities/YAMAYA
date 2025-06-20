@@ -29,5 +29,5 @@ Feel free to open issues or submit pull requests! We welcome help with:
 
 ---
 
-Made with ❤️ by the CoreOS25 team — led by [@geocommunities](https://github.com/geocommunities)
+Made with ❤️ by the YAMAYA team — led by [@geocommunities](https://github.com/geocommunities)
 
